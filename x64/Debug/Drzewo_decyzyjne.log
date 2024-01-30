@@ -1,0 +1,23 @@
+﻿  Funkcje.cpp
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(97,26): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(101,14): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(102,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(105,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(105,51): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(106,43): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(118,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(124,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(124,51): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(125,43): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(137,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(146,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(146,51): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(147,43): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(159,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(165,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(165,51): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(166,43): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\Funkcje.cpp(178,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  main.cpp
+  Generating Code...
+  Drzewo_decyzyjne.vcxproj -> C:\Users\koksi\projects\ProjektPPK\Projekt_drzewo\Drzewo_decyzyjne\x64\Debug\Drzewo_decyzyjne.exe
